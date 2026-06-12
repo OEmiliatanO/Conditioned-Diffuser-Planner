@@ -1,5 +1,5 @@
 # Conditioned Diffuser Planner
-This is the official implementation of [Conditioned Diffuser Planner for Consistent State Transition](https://openreview.net/forum?id=STmcRa3EzE&invitationId=ntu.edu.tw/National_Taiwan_University/Fall_2026/ML-MiniConf/Submission4/-/Camera_Ready_Revision&referrer=%5BTasks%5D(%2Ftasks))歐
+This is the official implementation of [Conditioned Diffuser Planner for Consistent State Transition](https://openreview.net/forum?id=STmcRa3EzE&invitationId=ntu.edu.tw/National_Taiwan_University/Fall_2026/ML-MiniConf/Submission4/-/Camera_Ready_Revision&referrer=%5BTasks%5D(%2Ftasks))
 
 ## Environment
 Install the enviroment through miniconda:
